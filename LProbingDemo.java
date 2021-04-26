@@ -5,7 +5,6 @@ Aim:To implement Linear Probing on a dictionary using java programming
 Description:
 
 Program:
-
 import java.util.Scanner;
 class LProbing
 {
