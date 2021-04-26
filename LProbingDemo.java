@@ -1,3 +1,11 @@
+Write a java program to implement Linear Probing on a dictionary
+
+Aim:To implement Linear Probing on a dictionary using java programming
+
+Description:
+
+Program:
+
 import java.util.Scanner;
 class LProbing
 {
@@ -107,3 +115,76 @@ class LProbingDemo
         }
     }
 }
+
+Output:
+Enter the size of the hash table
+10
+Enter your choice
+1
+Enter the key to be inserted
+15
+Enter your choice
+1
+Enter the key to be inserted
+58
+Enter your choice
+1
+Enter the key to be inserted
+81
+Enter your choice
+1
+Enter the key to be inserted
+65
+Enter your choice
+1
+Enter the key to be inserted
+48
+Enter your choice
+1
+Enter the key to be inserted
+69
+Enter your choice
+2
+h[0]=69
+h[1]=81
+h[2]=0
+h[3]=0
+h[4]=0
+h[5]=15
+h[6]=65
+h[7]=0
+h[8]=58
+h[9]=48
+Enter your choice
+3
+Enter the key to be search
+65
+65 found at 6
+Enter your choice
+3
+Enter the key to be search
+59
+There is no such key
+Enter your choice
+4
+Enter the key to be deleted
+48
+Enter your choice
+2
+h[0]=69
+h[1]=81
+h[2]=0
+h[3]=0
+h[4]=0
+h[5]=15
+h[6]=65
+h[7]=0
+h[8]=58
+h[9]=-1
+Enter your choice
+4
+Enter the key to be deleted
+6
+There is no such key
+Enter your choice
+10
