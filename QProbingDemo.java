@@ -1,3 +1,11 @@
+Write a java program to implement Quadratic Probing on a dictionary
+
+Aim:
+To implement Quadratic Probing on a dictionary using java programming.
+    
+Description:    
+
+Program:
 import java.util.Scanner;
 class QProbing
 {
@@ -100,3 +108,72 @@ class QProbingDemo
         }
     }
 }
+
+Output:
+Enter the size of the hash table
+7
+Enter your choice
+1
+Enter the key to be inserted
+22
+Enter your choice
+1
+Enter the key to be inserted
+9
+Enter your choice
+1
+Enter the key to be inserted
+32
+Enter your choice
+1
+Enter the key to be inserted
+74
+Enter your choice
+1
+Enter the key to be inserted
+5
+Enter your choice
+2
+h[0]=0
+h[1]=22
+h[2]=9
+h[3]=0
+h[4]=32
+h[5]=74
+h[6]=5
+Enter your choice
+3
+Enter the key to be search
+74
+The key found at the alternate location
+Enter your choice
+3
+Enter the key to be search
+32
+key is found in its home bucket
+Enter your choice
+3
+Enter the key to be search
+7
+key not found
+Enter your choice
+4
+Enter the key to be deleted
+22
+Enter your choice
+2
+h[0]=0
+h[1]=-1
+h[2]=9
+h[3]=0
+h[4]=32
+h[5]=74
+h[6]=5
+Enter your choice
+4
+Enter the key to be deleted
+24
+There is no such key
+Enter your choice
+10
+
