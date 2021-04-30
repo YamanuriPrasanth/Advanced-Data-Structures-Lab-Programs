@@ -1,3 +1,4 @@
+Program:
 import java.util.Scanner;
 class DoubleHash
 {
@@ -105,3 +106,106 @@ class DoubleHashDemo
         }
     }
 }
+
+Input And Output:
+Enter the size of the hash table
+11
+Enter the prime number which is less than 11
+7
+Enter your choice
+1
+Enter the key to be inserted
+13
+Enter your choice
+1
+Enter the key to be inserted
+26
+Enter your choice
+1
+Enter the key to be inserted
+5
+Enter your choice
+1
+Enter the key to be inserted
+37
+Enter your choice
+1
+Enter the key to be inserted
+16
+Enter your choice
+1
+Enter the key to be inserted
+15
+Enter your choice
+1
+Enter the key to be inserted
+21
+Enter your choice
+2
+h[0]=15
+h[1]=0
+h[2]=13
+h[3]=0
+h[4]=26
+h[5]=5
+h[6]=21
+h[7]=0
+h[8]=0
+h[9]=37
+h[10]=16
+Enter your choice
+3
+Enter the key to be search
+26
+26 is found in its home bucket
+Enter your choice
+3
+Enter the key to be search
+15
+15 is found at the alternate location 0
+Enter your choice
+3
+Enter the key to be search
+2
+There is no such key
+Enter your choice
+4
+Enter the key to be deleted
+37
+Enter your choice
+2
+h[0]=15
+h[1]=0
+h[2]=13
+h[3]=0
+h[4]=26
+h[5]=5
+h[6]=21
+h[7]=0
+h[8]=0
+h[9]=-1
+h[10]=16
+Enter your choice
+4
+Enter the key to be deleted
+15
+Enter your choice
+2
+h[0]=-1
+h[1]=0
+h[2]=13
+h[3]=0
+h[4]=26
+h[5]=5
+h[6]=21
+h[7]=0
+h[8]=0
+h[9]=-1
+h[10]=16
+Enter your choice
+4
+Enter the key to be deleted
+77
+There is no such element
+Enter your choice
+10
