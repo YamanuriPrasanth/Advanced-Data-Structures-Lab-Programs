@@ -73,7 +73,7 @@ class DoubleHash
                 if(h[i]==k)
                     h[i]=-1;
                 else
-                    System.out.println("There is no such element");
+                    System.out.println("There is no such key");
             }
         }
     }
@@ -212,6 +212,6 @@ Enter your choice
 4
 Enter the key to be deleted
 77
-There is no such element
+There is no such key
 Enter your choice
 10
