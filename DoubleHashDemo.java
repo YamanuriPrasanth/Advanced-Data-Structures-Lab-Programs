@@ -1,3 +1,9 @@
+Write a java program to implement the Double Hashing Technique
+
+Aim: To implement the Double Hashing Technique using Java programming
+
+Description:
+
 Program:
 import java.util.Scanner;
 class DoubleHash
