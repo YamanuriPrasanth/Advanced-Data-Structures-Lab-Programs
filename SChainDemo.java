@@ -1,4 +1,10 @@
-package com.prasanth.java;
+Write a Java Program to implement Separate chaining Technique
+
+Aim:To implement separate chaining technique using java Programming
+
+Description:
+
+Program:
 import java.util.*;
 class SNode
 {
@@ -128,6 +134,76 @@ class SChainDemo
         }
     }
 }
+
+Input and Output:
+10
+Enter your choice
+1
+Enter the key to be inserted
+10
+Enter your choice
+1
+Enter the key to be inserted
+20
+Enter your choice
+1
+Enter the key to be inserted
+55
+Enter your choice
+1
+Enter the key to be inserted
+68
+Enter your choice
+1
+Enter the key to be inserted
+89
+Enter your choice
+4
+h[0]=10->20->null
+h[1]=null
+h[2]=null
+h[3]=null
+h[4]=null
+h[5]=55->null
+h[6]=null
+h[7]=null
+h[8]=68->null
+h[9]=89->null
+Enter your choice
+2
+Enter the key to be searched
+10
+Key found
+Enter your choice
+2
+Enter the key to be searched
+69
+Key not found
+Enter your choice
+3
+Enter the key to be deleted
+68
+element deleted
+Enter your choice
+4
+h[0]=10->20->null
+h[1]=null
+h[2]=null
+h[3]=null
+h[4]=null
+h[5]=55->null
+h[6]=null
+h[7]=null
+h[8]=null
+h[9]=89->null
+Enter your choice
+3
+Enter the key to be deleted
+30
+key not found
+Enter your choice
+10
+
 
 
 
