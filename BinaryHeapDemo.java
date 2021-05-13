@@ -1,3 +1,10 @@
+
+
+Aim:
+
+Description:
+
+Program:
 import java.util.Scanner;
 class BinaryHeap
 {
@@ -72,3 +79,5 @@ class BinaryHeapDemo
         }
     }
 }
+
+Input and output:
