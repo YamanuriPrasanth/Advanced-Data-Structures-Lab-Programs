@@ -1,6 +1,6 @@
+Write a java program to implement Binary Heap Operations 
 
-
-Aim:
+Aim:To implement Binary Heap Operations using java programming
 
 Description:
 
@@ -80,4 +80,66 @@ class BinaryHeapDemo
     }
 }
 
+
 Input and output:
+Enter maximum
+20
+Enter your choice
+1
+Enter the key to be inserted
+24
+Enter your choice
+1
+Enter the key to be inserted
+13
+Enter your choice
+1
+Enter the key to be inserted
+48
+Enter your choice
+1
+Enter the key to be inserted
+17
+Enter your choice
+1
+Enter the key to be inserted
+20
+Enter your choice
+1
+Enter the key to be inserted
+56
+Enter your choice
+1
+Enter the key to be inserted
+70
+Enter your choice
+2
+70
+20
+56
+13
+17
+24
+48
+Enter your choice
+3
+Enter your choice
+2
+56
+20
+48
+13
+17
+24
+Enter your choice
+3
+Enter your choice
+2
+48
+20
+24
+13
+17
+Enter your choice
+10
+
