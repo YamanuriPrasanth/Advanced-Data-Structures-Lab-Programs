@@ -1,3 +1,10 @@
+Write a java program to implement Heap sort technique
+
+Aim:To implement Heap sort technique using java programming
+
+Description:
+
+Program:
 import java.util.Scanner;
 class HeapSort
 {
@@ -74,4 +81,29 @@ class HeapSortDemo
         hs.display();
     }
 }
+
+Input and Output:
+Enter max
+20
+Enter n value which should be less than 20
+7
+Enter n elements
+24 13 48 17 20 56 70
+Elements before sorting
+70
+20
+56
+17
+13
+24
+48
+Elements after sorting
+13
+17
+20
+24
+48
+56
+70
+
 
