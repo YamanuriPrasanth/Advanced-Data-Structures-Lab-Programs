@@ -1,3 +1,10 @@
+Write a Java Program to implement Avial tree
+
+Aim:
+
+Description:
+
+Program:
 import java.util.*;
 class AVLNode
 {
@@ -177,7 +184,7 @@ class AVLTreeDemo
         int e,ch;
         while(true)
         {
-            System.out.println("enter your choice");
+            System.out.println("Enter your choice");
             ch=s.nextInt();
             switch(ch)
             {
@@ -208,5 +215,8 @@ class AVLTreeDemo
         }
     }
 }
+
+Input and Output:
+
 
 
