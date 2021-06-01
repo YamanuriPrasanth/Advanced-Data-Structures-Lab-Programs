@@ -40,7 +40,8 @@ class AVL
             t.left=t.right=null;
             return t;
         }
-        else if(e<t.data) {
+        else if(e<t.data) 
+        {
             t.left = insert(t.left, e);
             if(height(t.left)-height(t.right)==2||height(t.left)-height(t.right)==-2)
             {
