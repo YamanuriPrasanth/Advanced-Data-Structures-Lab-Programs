@@ -96,7 +96,7 @@ class AVL
     {
 
         if(t==null)
-            System.out.println("there is no such element");
+            System.out.println("There is no such element");
         else if(e<t.data)
             search(t.left,e);
         else if(e>t.data)
@@ -217,6 +217,70 @@ class AVLTreeDemo
 }
 
 Input and Output:
+Enter your choice
+1
+Enter the element to be inserted
+87
+Enter your choice
+1
+Enter the element to be inserted
+54
+Enter your choice
+1
+Enter the element to be inserted
+26
+Enter your choice
+1
+Enter the element to be inserted
+58
+Enter your choice
+1
+Enter the element to be inserted
+49
+Enter your choice
+1
+Enter the element to be inserted
+38
+Enter your choice
+2
+26
+38
+49
+54
+58
+87
+Enter your choice
+3
+The height tree is 2
+Enter your choice
+4
+Enter the element to be deleted
+38
+Enter your choice
+2
+26
+49
+54
+58
+87
+Enter your choice
+4
+Enter the element to be deleted
+21
+There is no such element
+Enter your choice
+5
+Enter the element to be searched
+49
+Element found
+Enter your choice
+5
+Enter the element to be searched
+10
+There is no such element
+Enter your choice
+10
+
 
 
 
