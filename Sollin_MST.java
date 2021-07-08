@@ -1,3 +1,10 @@
+Write a Java Program To implement Sollin's algorithm
+    
+Aim: To implement Sollin's algorithm using java programming
+    
+Description:
+    
+Program:
 class GraphEdge
 {
     int v;
@@ -86,3 +93,6 @@ class Sollin_MST
     }
 
 }
+
+Input and Output:
+The cost of the spanning tree is 15
