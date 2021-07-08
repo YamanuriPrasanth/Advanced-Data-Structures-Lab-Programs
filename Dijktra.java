@@ -1,4 +1,11 @@
-class Dijktra
+Write a java program to implement Dijkstra's algorithm
+
+Aim:To implement Dijkstra's algorithm using java programming
+    
+Description:
+
+Program:
+class Dijkstra
 {
     static int dist[]=new int[10];
     static int p[]=new int[10];
@@ -69,3 +76,11 @@ class Dijktra
         return true;
     }
 }
+
+Input and Output:
+0
+7
+9
+20
+20
+11
