@@ -14,9 +14,6 @@ class Dijkstra
             {9,10,99,11,99,2},{99,15,11,99,6,99},
             {99,99,99,6,99,9},{14,99,2,99,9,99}};
     static int n=6;
-
-
-
     public static void main(String[] args)
     {
         int min,newdist,dc,k,source=0;
