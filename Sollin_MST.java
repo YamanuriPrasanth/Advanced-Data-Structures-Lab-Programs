@@ -94,5 +94,5 @@ class Sollin_MST
 
 }
 
-Input and Output:
+Output:
 The cost of the spanning tree is 15
