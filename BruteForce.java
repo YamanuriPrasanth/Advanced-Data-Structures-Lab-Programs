@@ -1,4 +1,11 @@
-import java.util.*;;
+Write a Java Program To implement Brute Force Algorithm
+
+Aim:To implement Brute Force Algorithm using java programming
+
+Description:
+
+Program:
+import java.util.*;
 class BruteForce
 {
     public static void main(String[] args)
@@ -28,3 +35,10 @@ class BruteForce
         System.out.println("Pattern not matched");
     }
 }
+
+Input and Output:
+Enter Text
+prasanth
+Enter Pattern
+santh
+Pattern Matched
