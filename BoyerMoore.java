@@ -1,3 +1,10 @@
+Write a Java Program To implement BoyerMoore Algorithm
+
+Aim:To implement BoyerMoore Algorithm using Java programming
+
+Description:
+
+Program:
 import java.util.*;
 class BoyerMoore
 {
@@ -51,3 +58,11 @@ class BoyerMoore
         return b;
     }
 }
+
+Input and output:
+Enter Text
+prasanth
+Enter Pattern
+santh
+Pattern matched
+
