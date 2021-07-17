@@ -2,6 +2,9 @@ Write a Java Program To implement Knuth Morris Pratt Algorithm
 
 Aim: To implement Knuth Morris Pratt Algorithm using java Programming
 
+Description:
+
+Program:
 import java.util.*;;
 class KnuthMorrisPratt
 {
