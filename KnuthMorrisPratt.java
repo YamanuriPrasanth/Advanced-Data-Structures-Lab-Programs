@@ -1,3 +1,7 @@
+Write a Java Program To implement Knuth Morris Pratt Algorithm
+
+Aim: To implement Knuth Morris Pratt Algorithm using java Programming
+
 import java.util.*;;
 class KnuthMorrisPratt
 {
@@ -53,4 +57,12 @@ class KnuthMorrisPratt
         System.out.println("Pattern not matched");
     }
 }
+
+Input and Output:
+Enter Text
+prasanth
+Enter Pattern
+santh
+Pattern Matched
+
 
