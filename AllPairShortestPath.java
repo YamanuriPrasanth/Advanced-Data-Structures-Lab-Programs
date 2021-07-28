@@ -1,3 +1,12 @@
+Write a Java Program to implement shortest path between all pair of vertices.
+    
+Aim:To implement shortest path between all pair of vertices using java Programming
+
+Description:The all pair shortest path algorithm is also known as Floyd-Warshall algorithm is used to find all pair shortest path problem from
+a given weighted graph. As a result of this algorithm, it will generate a matrix, which will represent the minimum distance from any node to all
+other nodes in the graph
+
+Program:
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -53,3 +62,11 @@ class AllPairShortestPath
         a.floydWarshall(graph);
     }
 }
+
+Output:
+The following matrix shows the shortest distances between every pair of vertices
+0   5   8   9   
+INF 0   3   4   
+INF INF 0   1   
+INF INF INF 0 
+
