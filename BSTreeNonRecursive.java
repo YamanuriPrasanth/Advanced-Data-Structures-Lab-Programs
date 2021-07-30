@@ -1,3 +1,14 @@
+Write a java Program To implement Operations on Binary Search Tree non recursive.
+    
+Aim:To implement Operations on Binary Search Tree non recursive using java programming
+
+Description:Binary Search Tree is a node-based binary tree data structure which has the following properties:
+
+The left subtree of a node contains only nodes with keys lesser than the node’s key.
+The right subtree of a node contains only nodes with keys greater than the node’s key.
+The left and right subtree each must also be a binary search tree.
+    
+Program:
 import java.util.Scanner;
 class  BSTNode
 {
@@ -163,3 +174,52 @@ class BSTreeNonRecursive
         }
     }
 }
+
+Input and Output:
+enter your choice
+1
+enter the element
+2
+enter your choice
+1
+enter the element
+4
+enter your choice
+1
+enter the element
+8
+enter your choice
+1
+enter the element
+7
+enter your choice
+1
+enter the element
+15
+enter your choice
+2
+2
+4
+7
+8
+15
+
+enter your choice
+3
+2
+4
+8
+7
+15
+
+enter your choice
+4
+7
+15
+8
+4
+2
+
+enter your choice
+10
+
